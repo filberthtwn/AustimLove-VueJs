@@ -1,0 +1,39 @@
+{
+  "name": "autism-love",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "vite preview",
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.9.2",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.2",
+    "express": "^4.17.1",
+    "firebase": "^8.10.0",
+    "firebase-admin": "^9.9.0",
+    "jquery": "^3.6.0",
+    "moment": "^2.29.1",
+    "serve-static": "^1.14.1",
+    "vue": "^3.0.11",
+    "vue-router": "^4.0.6",
+    "vue-spinner": "^1.0.4",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@babel/polyfill": "^7.11.5",
+    "@vitejs/plugin-vue": "^1.2.2",
+    "@vue/compiler-sfc": "^3.0.5",
+    "mutationobserver-shim": "^0.3.7",
+    "node-sass": "^6.0.0",
+    "popper.js": "^1.16.1",
+    "portal-vue": "^2.1.7",
+    "sass": "^1.34.0",
+    "sass-loader": "^10.2.0",
+    "vite": "^2.2.3",
+    "vue-cli-plugin-bootstrap-vue": "~0.7.0",
+    "vue-svg-loader": "^0.16.0",
+    "vueify": "^9.4.1"
+  }
+}
